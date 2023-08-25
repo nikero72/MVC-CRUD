@@ -1,0 +1,58 @@
+html {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    margin: 0px;
+    padding: 30px;
+    text-align: center;
+}
+
+#login-form, #reg-form, #admin-login-form {
+   width: 40%;
+   margin-left: auto;
+   margin-right: auto;
+   text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: #000;
+}
+
+.error {
+    color: red;
+    font-size: 14px;
+}
+
+#add-categories-button {
+    margin-bottom: 15px;
+}
+
+.product-header {
+    text-align: center;
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.to-categories {
+    text-align: right;
+    float: right;
+}
+
+#login-error {
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+}
+
+#btn-to-product {
+    border: none;
+    background-color: rgba(0, 0, 0, 0);
+}
+
+#logout {
+    float: right;
+}
