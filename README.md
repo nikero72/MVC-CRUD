@@ -1,5 +1,5 @@
 # MVC-CRUD
-CRUD с паттерном MVC, написанный на PHP, HTML, JS + JQuery, CSS+Bootstrap, MySQL, веб-сервер Nginx.
+CRUD с паттерном MVC, написанный на PHP, HTML, JS + JQuery, CSS + Bootstrap, MySQL, веб-сервер Nginx.
 ##### /login
 ![image](https://github.com/nikero72/MVC-CRUD/assets/123304698/27d66f6f-c1e0-434a-bb70-01b876dbc519)
 ##### /registration
